@@ -4,6 +4,8 @@ EXPERIMENT WITH ARTIFICIAL LARGE MEDICAL DATA-SETS WITHOUT WORRYING ABOUT PRIVAC
 
 Created by Uri Kartoun, PhD
 
+https://en.wikipedia.org/wiki/EMRBots
+
 http://www.emrbots.org/
 
 ####################################################################################################################
